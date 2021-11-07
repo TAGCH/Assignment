@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "geography",
+      "setup": "",
+      "run": "python -m doctest geography.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "football",
+      "setup": "",
+      "run": "python -m doctest football.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "titanic",
+      "setup": "",
+      "run": "python -m doctest titanic.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}
