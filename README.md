@@ -4,7 +4,7 @@ This project is a game that can play 2 players. Player one is a painter. The pai
 
 ## Required libraries and tools
 * Python 3.10.0 (Not fixed)
- [Download lastest version] (https://www.python.org/)
+[Download lastest version] (https://www.python.org/)
 
 ### Import
 * csv
@@ -35,3 +35,5 @@ This project is a game that can play 2 players. Player one is a painter. The pai
  * `Report.py` -- Report class
  * `Mix.py` -- Mix class
  * `main.py` -- Run program
+
+Thank you for reading :}
